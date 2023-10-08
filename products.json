@@ -1,0 +1,30 @@
+[
+    {
+    "name":"s20",
+    "price": 29999,
+    "featured": true,
+    "company": "samsung"
+},
+{
+    "name":"iphone14",
+    "price": 49999,
+    "featured": true,
+    "company": "apple"
+},
+{
+    "name":"note 11 pro",
+    "price": 19999,
+    "featured": true,
+    "company": "mi"
+},
+{
+    "name":"s21FE",
+    "price": 31999,
+    "company": "samsung"
+},
+{
+    "name":"iphone13",
+    "price": 32999,
+    "company": "apple"
+}
+]
